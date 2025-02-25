@@ -1,0 +1,604 @@
+{
+    "selectModes":[
+        {
+            "level": 1,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 2,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 3,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 4,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 5,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 6,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 7,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 8,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 9,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 10,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 11,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 12,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 13,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 14,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 15,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 16,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 17,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 18,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 19,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 20,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 21,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 22,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 23,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 24,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 25,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 26,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 27,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 28,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 29,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 30,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 31,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 32,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 33,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 34,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 35,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 36,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 37,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 38,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 39,
+            "nameMap": "HighwaySunny",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 40,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 41,
+            "nameMap": "HighwayAfternoon",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 42,
+            "nameMap": "HighwayAfternoon",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 43,
+            "nameMap": "HighwayAfternoon",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 44,
+            "nameMap": "HighwayAfternoon",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 45,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 46,
+            "nameMap": "HighwayAfternoon",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 47,
+            "nameMap": "HighwayAfternoon",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 48,
+            "nameMap": "HighwayAfternoon",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 49,
+            "nameMap": "HighwayAfternoon",
+            "mode": 4,
+            "nameMode": "MissionMode_1"
+           },
+           {
+            "level": 50,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 51,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 52,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 53,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 54,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 55,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 56,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 57,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 58,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 59,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 60,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 61,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 62,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 63,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 64,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 65,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 66,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 67,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 68,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 69,
+            "nameMap": "HighwayAfternoon",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 70,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 71,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 72,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 73,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 74,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 75,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 76,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 77,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 78,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 79,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 80,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 81,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 82,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 83,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 84,
+            "nameMap": "HighwayNight",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 85,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 86,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 87,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 88,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 89,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 90,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 91,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 92,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 93,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 94,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 95,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 96,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 97,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 98,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 99,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           },
+           {
+            "level": 100,
+            "nameMap": "HighwayRainy",
+            "mode": 5,
+            "nameMode": "MissionMode_2"
+           }
+    ]
+}

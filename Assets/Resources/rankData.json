@@ -1,0 +1,164 @@
+{
+    "rankGames": [
+        {
+            "rankName": "Newbie I",
+            "rankPoint": 0
+           },
+           {
+            "rankName": "Newbie II",
+            "rankPoint": 200
+           },
+           {
+            "rankName": "Newbie III",
+            "rankPoint": 400
+           },
+           {
+            "rankName": "Newbie IV",
+            "rankPoint": 600
+           },
+           {
+            "rankName": "Newbie V",
+            "rankPoint": 800
+           },
+           {
+            "rankName": "Amateur I",
+            "rankPoint": 1200
+           },
+           {
+            "rankName": "Amateur II",
+            "rankPoint": 1600
+           },
+           {
+            "rankName": "Amateur III",
+            "rankPoint": 2000
+           },
+           {
+            "rankName": "Amateur IV",
+            "rankPoint": 2400
+           },
+           {
+            "rankName": "Amateur V",
+            "rankPoint": 2800
+           },
+           {
+            "rankName": "Semi-pro I",
+            "rankPoint": 3600
+           },
+           {
+            "rankName": "Semi-pro II",
+            "rankPoint": 4400
+           },
+           {
+            "rankName": "Semi-pro III",
+            "rankPoint": 5200
+           },
+           {
+            "rankName": "Semi-pro IV",
+            "rankPoint": 6000
+           },
+           {
+            "rankName": "Semi-pro V",
+            "rankPoint": 6800
+           },
+           {
+            "rankName": "Professional I",
+            "rankPoint": 8400
+           },
+           {
+            "rankName": "Professional II",
+            "rankPoint": 10000
+           },
+           {
+            "rankName": "Professional III",
+            "rankPoint": 11600
+           },
+           {
+            "rankName": "Professional IV",
+            "rankPoint": 13200
+           },
+           {
+            "rankName": "Professional V",
+            "rankPoint": 14800
+           },
+           {
+            "rankName": "Racer I",
+            "rankPoint": 18000
+           },
+           {
+            "rankName": "Racer II",
+            "rankPoint": 21200
+           },
+           {
+            "rankName": "Racer III",
+            "rankPoint": 24400
+           },
+           {
+            "rankName": "Racer IV",
+            "rankPoint": 27600
+           },
+           {
+            "rankName": "Racer V",
+            "rankPoint": 30800
+           },
+           {
+            "rankName": "Master I",
+            "rankPoint": 37200
+           },
+           {
+            "rankName": "Master II",
+            "rankPoint": 43600
+           },
+           {
+            "rankName": "Master III",
+            "rankPoint": 50000
+           },
+           {
+            "rankName": "Master IV",
+            "rankPoint": 56400
+           },
+           {
+            "rankName": "Master V",
+            "rankPoint": 62800
+           },
+           {
+            "rankName": "Champion I",
+            "rankPoint": 75600
+           },
+           {
+            "rankName": "Champion II",
+            "rankPoint": 88400
+           },
+           {
+            "rankName": "Champion III",
+            "rankPoint": 101200
+           },
+           {
+            "rankName": "Champion IV",
+            "rankPoint": 114000
+           },
+           {
+            "rankName": "Champion V",
+            "rankPoint": 126800
+           },
+           {
+            "rankName": "Legend I",
+            "rankPoint": 152400
+           },
+           {
+            "rankName": "Legend II",
+            "rankPoint": 178000
+           },
+           {
+            "rankName": "Legend III",
+            "rankPoint": 203600
+           },
+           {
+            "rankName": "Legend IV",
+            "rankPoint": 229200
+           },
+           {
+            "rankName": "Legend V",
+            "rankPoint": 254800
+           }
+    ]
+}
